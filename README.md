@@ -7,6 +7,7 @@ _Nội dung trò chơi:_
     Nếu người chơi đụng ngọn lửa sẽ mất một mạng, mất 3 mạng là thua cuộc và trò chơi sẽ kết thúc. Để thắng cuộc, người chơi cần thu thập đủ 3 cúp. 
 
 _Thao tác:_
+    
     Di chuyển trái/phải: mũi trên trái/phải
     Nhảy: dấu cách/mũi tên lên
     Lộn nhào trên không: dấu cách/mũi tên lên 2 lần
